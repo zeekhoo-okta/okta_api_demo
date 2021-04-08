@@ -1,6 +1,6 @@
 certifi==2017.11.5
 chardet==3.0.4
-Django==2.2.16
+Django==2.2.20
 django-bootstrap3==9.1.0
 django-cors==0.1
 django-cors-headers==2.1.0
